@@ -1,3 +1,3 @@
-module gitea.c00l.computer/jtorba/nodelib
+module github.com/safespacehub/nodelib
 
 go 1.22.4
